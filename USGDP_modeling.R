@@ -1,5 +1,5 @@
 #' ---
-#' title: "Rapport TD4"
+#' title: "Report TD4"
 #' author: "Louis TEILLET"
 #' ---
 knitr::opts_chunk$set(message = FALSE)
